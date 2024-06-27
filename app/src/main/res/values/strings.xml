@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">foodorderingapp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="web_client_id">274358139743-oi70m6ic7rg3e6b3gk7nld2ri6gh42tk.apps.googleusercontent.com</string>
+    <string name="PAYMENT_KEY">rzp_test_7cvQIYDzzx1hsk</string>
+
+</resources>
